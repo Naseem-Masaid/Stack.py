@@ -41,9 +41,9 @@ class Stack:
 
 if __name__ == '__main__':
     stack = Stack()
-    stack.Push(5)
-    stack.Push(6)
-    stack.Push(11)
+    stack.Push(4)
+    stack.Push(3)
+    stack.Push(2)
     stack.Push(1)
 
     print("tampilan stack")
